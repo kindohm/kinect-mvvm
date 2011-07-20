@@ -1,0 +1,7 @@
+====================================================================
+This repo is an example of how to use Kinect skeleton tracking
+(using the official Kinect SDK) within a Model-View-ViewModel (MVVM)
+pattern in WPF. The app wraps the Kinect runtime as a "service"
+that is injected into the ViewModel, de-coupling the ViewModel
+and View (UI) from Kinect sensor logic.
+====================================================================
